@@ -1,1 +1,1 @@
-# NumericalMethod
+# MetodeNumerikR
